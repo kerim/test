@@ -1555,7 +1555,7 @@
 		font-family: 'Source Sans Pro', sans-serif;
 		font-size: 19pt;
 		font-weight: 350;
-		line-height: 1.75em;
+		line-height: 1.25em;
 		color: #000;
 	}
 
@@ -1766,7 +1766,7 @@
 			display: inline-block;
 			width: 2em;
 			height: 2em;
-			line-height: 2em;
+			line-height: 1.5em;
 			text-align: center;
 			border: 0;
 		}
@@ -2294,7 +2294,7 @@
 					#nav ul li a span:before {
 						left: 100%;
 						margin-left: -1.25em;
-						line-height: 2.25em;
+						line-height: 1.25em;
 					}
 
 		/* Footer */
