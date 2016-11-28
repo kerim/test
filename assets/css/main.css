@@ -1706,15 +1706,15 @@
 			width: 100%;
 		}
 
-		.image.avatar48 {
-			width: 48px;
-			height: 48px;
+		.image.avatar128 {
+			width: 128px;
+			height: 128px;
 			background: #f00;
 		}
 
-			.image.avatar48 img {
-				width: 48px;
-				height: 48px;
+			.image.avatar128 img {
+				width: 128px;
+				height: 128px;
 			}
 
 		.image.fit {
