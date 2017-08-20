@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Media Management and Backup</title>
+  
+  <meta name="description" content="I vividly remember throwing the 40MB hard drive for my Mac Plus out the window of my college dorm room when it died. Although I checked that the coast was cl...">
+
+  
+  
+  
+  <link rel="stylesheet" href="/assets/style.css">
+  
+
+  <link rel="canonical" href="http://localhost:4000/archives/2010/07/28/media-management-and-backup/">
+  <link rel="alternate" type="application/rss+xml" title="Keywords" href="http://localhost:4000/feed.xml">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  
+    <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92350-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>	
+  
+</head>
+
+
+  <body>
+
+    <header class="border-bottom-thick px-2 clearfix">
+  <div class="left sm-width-full py-1 mt-1 mt-lg-0">
+    <a class="align-middle link-primary text-accent" href="/">
+      Keywords
+    </a>
+  </div>
+  <div class="right sm-width-full">
+    <ul class="list-reset right py-1 font-smoothing">
+	    <li class="inline-block">
+		    <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="http://kerim.oxus.net">
+            About Kerim
+             </a>
+	   </li>
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-9 py-4 mt-3 inline-block" itemprop="name headline">Media Management and Backup</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+    <p class="mb-3 py-2 bold h4"><time datetime="2010-07-28T00:00:00+08:00" itemprop="datePublished">Jul 28, 2010</time></p>
+  </div>
+
+  <div class="prose" itemprop="articleBody">
+      <p>I vividly remember throwing the 40MB hard drive for my Mac Plus out the window of my college dorm room when it died. Although I checked that the coast was clear, I still managed to scare someone who yelled at me for a long time before I was able to calm her down… Yesterday, nearly two decades after I bought that hard drive, I bought two 2TB drives and a RAID enclosure to make a 4TB media storage drive for Shashwati. We need that much to make an high resolution output of our film for festivals which will look much better than what we’ve been showing people. (For more about our film see <a href="http://dontbeatmesir.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://dontbeatmesir.com', 'dontbeatmesir.com']);">dontbeatmesir.com</a>.) I’ve also had to adjust how I store media on my own computer, since the internal hard drive has no space for all the RAW photos I’m taking with my Cannon 500D. I easily shoot 16GB in a weekend and I only have about 20GB of space left on the drive. Add to that the fact that I need to back up everything and you quickly see how overwhelming media management has become in the days of high definition photos and videos. So what to do without breaking the bank? Below is the solution I’ve come up with. It might not work for everyone, but something like this should cover most people’s needs.</p>
+
+<p>For backing up my main hard drive I need a dedicated <a href="http://support.apple.com/kb/ht1427" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://support.apple.com/kb/ht1427', 'Time Machine backup']);">Time Machine backup</a> drive and a second drive I use for semi-monthly <a href="http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.shirt-pocket.com/SuperDuper/SuperDuperDescription.html', 'SuperDuper']);">SuperDuper</a> backups. Both of these drives need to be as big, if not bigger than the main hard drive. It is also good to regularly take the SuperDuper clones somewhere off-site so that if the house burns you still have a copy of your data. (I also use <a href="https://www.dropbox.com/referrals/NTEyMjU1OQ" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'https://www.dropbox.com/referrals/NTEyMjU1OQ', 'DropBox']);">DropBox</a> for cloud sync of the files I’m working on at the moment.) Then I need another hard drive for all my media. This needs to be backed up regularly as well. SuperDuper is what I’ve been using up till now, but I no longer feel that this is sufficient. I need something like Time Machine for this drive. The solution is a <a href="http://en.wikipedia.org/wiki/Disk_mirroring" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Disk_mirroring', 'mirrored RAID']);">mirrored RAID</a>. That means you have two drives of equal size in the same enclosure, and all data written to the first drive is simultaneously written to the second one as well. Since an electrical storm could conceivably wipe both drives out at the same time, it is still good to do regular SuperDuper backups which are kept off-site.</p>
+
+<p>All this might seem like overkill, but anyone whose had a drive die on them will know that it is probably not cautious enough. Fortunately drives and RAID enclosures are cheaper than ever. There are also other devices like the <a href="http://www.drobo.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.drobo.com/', 'Drobo']);">Drobo</a> which improve upon the RAID concept, allowing more flexible disk configurations and other features, but at a price. In looking for a RAID enclosure it is good to find something which supports FireWire 800 or eSATA. Also some RAID devices allow you to more easily swap the drives, or even use the drives as two separate drives which can be useful. My plan is to buy two <a href="http://www.inxtron.com/products/hddmulti/nt2/nt2_800plus" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.inxtron.com/products/hddmulti/nt2/nt2_800plus', 'inXtron NT2 800+']);">inXtron NT2 800+</a> drive enclosures and use one for my TimeMachine + SuperDuper backups, and the other for a mirrored RAID media drive. For the Hard Drives, the <a href="http://www.wdc.com/en/products/products.asp?driveid=336" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wdc.com/en/products/products.asp?driveid=336', 'Western Digital Caviar Green']);">Western Digital Caviar Green</a> series seems like the most energy efficient and cost effective option for storage drives. You’d want the <a href="http://www.wdc.com/en/products/products.asp?driveid=488" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.wdc.com/en/products/products.asp?driveid=488', 'Caviar Black']);">Caviar Black</a> for something where speed is more important.</p>
+
+<p>I can’t help but feel that by the time I post this blog post, the information will already be out of date. I certainly can’t imagine what we’ll be doing for media backup in another twenty years…</p>
+
+<p>NOTES</p>
+
+<ol>
+  <li>
+    <p>The advantage of the Drobo is not needing to copy everything over when you upgrade your RAID you can do it a piece at a time. However, from what I can tell it isn’t worth it. The device costs more than five times as much and is also much slower.</p>
+  </li>
+  <li>
+    <p>For more on why I chose Western Digital <a href="http://hothardware.com/printarticle.aspx?articleid=1490" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://hothardware.com/printarticle.aspx?articleid=1490', 'read this']);">read this</a>.</p>
+  </li>
+  <li>
+    <p>The eSATA version of the inXtron NT2 (the “Super-S Combo”) does not allow drives to function independently, without a RAID, the 800+ does. In Taiwan I recommend <a href="http://www.heyshopping.com.tw/index.asp" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.heyshopping.com.tw/index.asp', 'byja.com']);">byja.com</a> for getting firewire RAID enclosures.</p>
+  </li>
+</ol>
+
+
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  <!-- Use if you want to show previous and next for all posts. -->
+
+
+
+  <div class="col-4 sm-width-full left mr-lg-4 mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2010/07/26/write-a-maze/">
+      <span class="h5 bold text-accent">Previous</span>
+      <p class="bold h3 link-primary mb-1">Write a Maze</p>
+
+    </a>
+  </div>
+  
+  
+  <div class="col-4 sm-width-full left mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2010/08/10/chris-hedges-the-tears-of-gaza-must-be-our-tears/">
+      <span class="h5 bold text-accent">Next</span>
+      <p class="bold h3 link-primary mb-1">Chris Hedges &#8211; The Tears of Gaza Must Be Our Tears</p>
+
+    </a>
+  </div>
+
+
+</div>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+
+  
+
+</div>
+
+    </div>
+
+<script id="dsq-count-scr" src="//keywords.disqus.com/count.js" async></script>
+
+    <div class="border-top-thin clearfix mt-2 mt-lg-4">
+  <div class="container mx-auto px-2">
+	  <div class="footer">
+    <p class="col-8 sm-width-full left py-2 mb-0"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Copyright P. Kerim Friedman.</p>
+</div>
+</div>
+</div>
+
+
+  </body>
+
+</html>
