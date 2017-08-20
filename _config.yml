@@ -10,7 +10,7 @@ comments: false
 disqus:
     # Leave shortname blank to disable comments site-wide.
     # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
-    shortname: keywords
+    shortname: 
     
 # Optional social link, you can choose from the following options:
 # twitter (default), instagram, medium, or dribbble
