@@ -1,0 +1,158 @@
+# Dependencies
+markdown:        kramdown
+theme: jekyll-swiss
+
+# Additional settings
+excerpt_separator: <!--more-->
+comments: false
+
+# Disqus Comments
+disqus:
+    # Leave shortname blank to disable comments site-wide.
+    # Disable comments for any post by adding `comments: false` to that post's YAML Front Matter.
+    shortname: 
+    
+# Optional social link, you can choose from the following options:
+# twitter (default), instagram, medium, or dribbble
+social_link1: twitter
+social_username1: kerim
+social_link2: facebook
+social_username2: kerimfriedman
+
+# Nav Bar
+link1: http://kerim.oxus.net
+
+
+# Set theme color here
+# Choose from: black (default), blue, gray, magenta, orange, red, white, and yellow.
+theme_color: black
+
+# Additional Gems
+plugins:
+- jekyll-mentions
+- jemoji
+- jekyll-redirect-from
+- jekyll-sitemap
+- jekyll-paginate
+
+# Setup
+
+title:            Keywords (test2)
+tagline:          'Better than yelling at the TV'
+description:      'The personal blog of <a href="http://kerim.oxus.net/">P. Kerim Friedman 傅可恩</a>. For his academic blogging please visit <a href="http://savageminds.org/">Savage Minds</a>.'
+url:              http://kerim.github.io
+# baseurl:          /keywords
+
+author:
+  name:           'Kerim'
+  url:            http://kerim.oxus.net
+  email: 'kerim.mail@oxus.net'
+
+# Outputting
+permalink:        /archives/:year/:month/:day/:title/
+paginate: 7 # amount of posts to show
+paginate_path: /page:num/
+timezone: # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+text:
+  pagination:
+    newer: 'Newer'
+    older: 'Older'
+    
+sass:
+    compressed: true
+
+
+# prose.io settings
+# https://github.com/prose/prose/wiki/Prose-Configuration
+
+prose:
+  siteurl: 'http://test.oxus.net'
+#  site: 'http://kerim.github.io/keywords'
+  rooturl: '_posts'
+  media: 'media'
+# relativeLinks: 'http://test.oxus.net/links.jsonp' (I don't have such a file, not sure why I would need it?)
+  ignore:
+    - index.md
+    - _config.yml
+    - /_layouts
+    - /_includes
+    - CNAME
+    - atom.xml
+    - robots.txt
+    - /wp-content
+    - /public
+    - index.html
+    - 404.html
+    - LICENSE.md
+    - README.md
+    
+  metadata:
+    _posts:
+      - name: "layout"
+        field:
+          element: "hidden"
+          value: "post"
+      - name: "author"
+        field:
+          element: "hidden"
+          value: "Kerim"
+      - name: "title"
+        field:
+          element: "text"
+          label: "title"
+      - name: "categories:"
+        field:
+          element: "multiselect"
+          label: "Add Tags"
+          placeholder: "Choose Tags"
+          alterable: "true"
+          options:
+            - name: "academic"
+              value: "academic"
+            - name: "announcements"
+              value: "announcements"
+            - name: "culture"
+              value: "culture"
+            - name: "education"
+              value: "education"
+            - name: "gender"
+              value: "gender"
+            - name: "health"
+              value: "health"
+            - name: "images"
+              value: "images"
+            - name: "india"
+              value: "india"
+            - name: "info-tech"
+              value: "info-tech"
+            - name: "invited"
+              value: "invited"
+            - name: "juno"
+              value: "juno"
+            - name: "labor"
+              value: "labor"
+            - name: "language"
+              value: "language"
+            - name: "law"
+              value: "law"
+            - name: "links"
+              value: "links"
+            - name: "notable"
+              value: "notable"
+            - name: "politics"
+              value: "politics"
+            - name: "philosophy"
+              value: "philosophy"
+            - name: "race"
+              value: "race"
+            - name: "taiwan"
+              value: "taiwan"
+            - name: "the-economy"
+              value: "the-economy"
+            - name: "the-environment"
+              value: "the-environment"
+            - name: "blog-post"
+              value: "blog-post"
+            - name: "keywords"
+              value: "keywords"

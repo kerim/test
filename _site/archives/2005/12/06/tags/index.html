@@ -1,0 +1,160 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Tags</title>
+  
+  <meta name="description" content="There are two models of tags in use on the web: tags-as-folders, and tags-as-meta-info. Gmail uses the first form, allowing you to store messages in more tha...">
+
+  
+  
+  
+  <link rel="stylesheet" href="/assets/style.css">
+  
+
+  <link rel="canonical" href="http://kerim.github.io/archives/2005/12/06/tags/">
+  <link rel="alternate" type="application/rss+xml" title="Keywords (test2)" href="http://kerim.github.io/feed.xml">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  
+    <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92350-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>	
+  
+</head>
+
+
+  <body>
+
+    <header class="border-bottom-thick px-2 clearfix">
+  <div class="left sm-width-full py-1 mt-1 mt-lg-0">
+    <a class="align-middle link-primary text-accent" href="/">
+      Keywords (test2)
+    </a>
+  </div>
+  <div class="right sm-width-full">
+    <ul class="list-reset right py-1 font-smoothing">
+	    <li class="inline-block">
+		    <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="http://kerim.oxus.net">
+            About Kerim
+             </a>
+	   </li>
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-9 py-4 mt-3 inline-block" itemprop="name headline">Tags</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+    <p class="mb-3 py-2 bold h4"><time datetime="2005-12-06T00:00:00+00:00" itemprop="datePublished">Dec 6, 2005</time></p>
+  </div>
+
+  <div class="prose" itemprop="articleBody">
+      <p>There are two models of tags in use on the web: tags-as-folders, and tags-as-meta-info. <a href="http://mail.google.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://mail.google.com', 'Gmail']);">Gmail</a> uses the first form, allowing you to store messages in more than one folder at a time. This is a step beyond the one-to-one filing systems of traditional e-mail programs. But its utility stops there. Such a system forces you to economize the number of tags you use. If you keep creating new tags for new projects you will find yourself with an excess of pseudo-folders.</p>
+
+<p>The tags-as-meta-info model adopted by <a href="http://www.flickr.com" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.flickr.com', 'Flickr']);">Flickr</a> and <a href="http://del.icio.us/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://del.icio.us/', 'del.icio.us']);">del.icio.us</a> is quite different. It encourages you to use as many tags as you like, understanding that tags aren’t just glorified folders, but add information to your data. For instance, clicking on one tag shows you related tags that might be relevant to your search. You can also discover related information from other users with similar tags.</p>
+
+<!-- technorati tags start -->
+
+<div style="text-align:right;">
+  <span style="font-size:x-small;">{<a href="http://www.technorati.com/tag/feedlounge" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/feedlounge', 'feedlounge']);" rel="tag">feedlounge</a>, <a href="http://www.technorati.com/tag/feeds" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/feeds', 'feeds']);" rel="tag">feeds</a>, <a href="http://www.technorati.com/tag/folksonomy" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.technorati.com/tag/folksonomy', 'folksonomy']);" rel="tag">folksonomy</a>}</span>
+
+
+<!-- technorati tags end -->
+
+  
+<!--more-->
+
+  
+I signed on to be an alpha tester of <a href="http://feedlounge.com/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://feedlounge.com/', 'Feedlounge']);">Feedlounge</a> because I thought its implementation of tagging would allow me to get a grip on the overwhelming number of feeds I&#8217;ve accumulated. It hasn&#8217;t. I&#8217;ve been hesitant to complain about this too loudly because I think Feedlounge is a great product and they&#8217;ve had to deal with a lot of <a href="http://feedlounge.com/blog/2005/12/05/state-of-feedlounge/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://feedlounge.com/blog/2005/12/05/state-of-feedlounge/', 'backend issues']);">backend issues</a> before they go to beta in January. However, I feel its tagging system needs to be more like del.icio.us or Flickr, and I have so far done a poor job of explaining what this means.
+
+The problem with the current implementation of Feedlounge is that it uses the Gmail model of tags, which means that you actually double the number of feeds in your list of feeds if you assign two tags to the same item. So listing BBC under both &#8220;news&#8221; and &#8220;world&#8221; gives you:
+
+* News  
+&#8212; BBC  
+* World  
+&#8212; BBC
+
+Multiply that by 400 and you can see the problem!
+
+If it were like del.icio.us or Flickr it could be something along the lines of:
+
+* BBC  
+&#8212; News, World, Favorites, Daily, Whatever other tags I like, etc.
+
+Then there could be a box where I could filter all the feeds I subscribe to by tag. So if I typed &#8220;favorites&#8221; or clicked that tag in my tag cloud, I would only see those feeds that I wish to look at every day. As Feedlounge is currently implemented I can have a &#8220;favorites&#8221; tag, but it is buried amongst all the other pseudo folders I have, and the whole system discourages me from adding any more tags.
+
+What&#8217;s worse, the tags aren&#8217;t useful for anything other than filing. I can&#8217;t, for instance, discover additional blogs that other users have listed under the same tag. Nor can I see overlapping related tags from my own tag cloud.
+
+Feedlounge has actually implemented tagging right for *individual* items from your feeds. The problem lies entirely with how they&#8217;ve implemented the tagging of the feeds themselves. Even the interface for tagging individual items is easier to access and use than the one for the feeds themselves.
+
+I really like Feedlounge, and I am a big fan of developer Alex King, whose <a href="http://www.kingdesign.net/tasks/" onclick="_gaq.push(['_trackEvent', 'outbound-article', 'http://www.kingdesign.net/tasks/', 'Tasks']);">Tasks</a> keeps me organized. But I really hope that they change the way they&#8217;ve implemented tagging before they go live with their beta in January.
+
+UPDATE: I just wanted to add that del.icio.us offers a nice compromise between tags and folders by offering &#8220;tag bundles&#8221;, which are groups of related tags. I personally think there are many ways in which structured and unstructured data could possibly co-exist, and that the possibilities have yet to be fully explored.
+
+</div>
+
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  <!-- Use if you want to show previous and next for all posts. -->
+
+
+
+  <div class="col-4 sm-width-full left mr-lg-4 mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2005/12/06/smoke-dust-haze/">
+      <span class="h5 bold text-accent">Previous</span>
+      <p class="bold h3 link-primary mb-1">Smoke, Dust, Haze</p>
+
+    </a>
+  </div>
+  
+  
+  <div class="col-4 sm-width-full left mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2005/12/07/skype-out/">
+      <span class="h5 bold text-accent">Next</span>
+      <p class="bold h3 link-primary mb-1">Skype Out</p>
+
+    </a>
+  </div>
+
+
+</div>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+
+</div>
+
+    </div>
+
+<script id="dsq-count-scr" src="//keywords.disqus.com/count.js" async></script>
+
+    <div class="border-top-thin clearfix mt-2 mt-lg-4">
+  <div class="container mx-auto px-2">
+	  <div class="footer">
+    <p class="col-8 sm-width-full left py-2 mb-0"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Copyright P. Kerim Friedman.</p>
+</div>
+</div>
+</div>
+
+
+  </body>
+
+</html>

@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html>
+
+  <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+
+  <title>Internationalization vs. Localization</title>
+  
+  <meta name="description" content="The vast majority of the world is multilingual. Not only are they multilingual, but many people use multiple scripts as well, including character based scrip...">
+
+  
+  
+  
+  <link rel="stylesheet" href="/assets/style.css">
+  
+
+  <link rel="canonical" href="http://kerim.github.io/archives/2009/01/21/internationalization-vs-localization/">
+  <link rel="alternate" type="application/rss+xml" title="Keywords (test2)" href="http://kerim.github.io/feed.xml">
+
+  <script async defer src="https://buttons.github.io/buttons.js"></script>
+  
+    <!-- Google Analytics -->
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-92350-1', 'auto');
+  ga('send', 'pageview');
+
+  </script>	
+  
+</head>
+
+
+  <body>
+
+    <header class="border-bottom-thick px-2 clearfix">
+  <div class="left sm-width-full py-1 mt-1 mt-lg-0">
+    <a class="align-middle link-primary text-accent" href="/">
+      Keywords (test2)
+    </a>
+  </div>
+  <div class="right sm-width-full">
+    <ul class="list-reset right py-1 font-smoothing">
+	    <li class="inline-block">
+		    <a class="align-middle link-primary mr-2 mr-lg-0 ml-lg-2" href="http://kerim.oxus.net">
+            About Kerim
+             </a>
+	   </li>
+    </ul>
+  </div>
+</header>
+
+
+    <div>
+      <article class="container px-2 mx-auto mb4" itemscope itemtype="http://schema.org/BlogPosting">
+  <h1 class="h0 col-9 py-4 mt-3 inline-block" itemprop="name headline">Internationalization vs. Localization</h1>
+  <div class="col-4 sm-width-full mt-1 border-top-thin ">
+    <p class="mb-3 py-2 bold h4"><time datetime="2009-01-21T00:00:00+00:00" itemprop="datePublished">Jan 21, 2009</time></p>
+  </div>
+
+  <div class="prose" itemprop="articleBody">
+      <p>The vast majority of the world is multilingual. Not only are they <br />
+multilingual, but many people use multiple scripts as well, including <br />
+character based scripts like Chinese and right-to-left scripts like <br />
+Hebrew and Arabic. In the old days of computing each of these various <br />
+scripts was handled differently, with each computer platform using <br />
+various different ways of implementing each script. This meant that <br />
+one had to choose your default script (i.e. Traditional Chinese) and <br />
+stick with that. It was difficult to mix and match scripts, and if you <br />
+were using a computer which wasn’t set for that script as your default <br />
+you had to know which script a website was encoded in before you could <br />
+read it properly. In short, it was a pain in the ass to be <br />
+multilingual on the internet.</p>
+
+<p> All that changed with the development of “unicode” a standard which <br />
+allows (almost) all scripts to peacefully coexist. And most websites <br />
+have adopted this new standard. But many have not. In Taiwan, for <br />
+instance, many sites still expect your browser to be set for <br />
+Traditional Chinese in order to work properly. Some sites (like the <br />
+site I have to use to enter grades at my university) won’t even work <br />
+unless you are using a Traditional Chinese version of Internet <br />
+Explorer running on a Traditional Chinese version of Windows. Ugh! <br />
+Other sites are botched because they use Adobe Flash which doesn’t yet <br />
+accept unicode input methods on OS X. And still other sites, like <br />
+Soup.io, are botched because they strip all unicode data when doing <br />
+something as simple as uploading files. One reason I love my iPhone so <br />
+much is because Palm never introduced unicode support on its PalmOS. <br />
+Fortunately its new WebOS is built on WebKit, which has unicode <br />
+support built in. Things are getting better, but there is still a long <br />
+way to go.</p>
+
+<p> But the biggest hurdle is in the mentality of web designers. I often <br />
+write to complain that some site or another falls short in its support <br />
+for international text. Not just to complain, but because I like the <br />
+site but can’t use it because it won’t accept Chinese language file <br />
+names, book titles, contact information, or some other international <br />
+text I need in order to do my work here in Taiwan. What drives me <br />
+crazy is when, in response to such an e-mail, I get a blanket response <br />
+telling me that the developers are working on a Chinese version of <br />
+their website. This is *not* what I want. Localization means that all <br />
+the menus, help text, etc. are translated into Chinese. This is great <br />
+for people whose English is less than fluent, but even many of my <br />
+Taiwanese colleagues here in Taiwan prefer to use websites in English. <br />
+What they want is to use Chinese data! Support for international <br />
+scripts is not the same thing as localization.</p>
+
+<p> I think the problem is that these web designers assume a one-to-one <br />
+correspondence between users and languages. If you are Taiwanese you <br />
+want to use their site in Chinese. Google assumes this every time I <br />
+log in to their mobile website from my iPhone. This is even worse <br />
+because it assumes I am Taiwanese simply because I am logging in from <br />
+Taiwan. Not everyone in Taiwan is Taiwanese. At least on the iPhone <br />
+they have a button to access the site in English – but on some of <br />
+their websites, like Youtube, it seems impossible to figure out how to <br />
+get the site in English (it is easier from some other language sites, <br />
+but the Taiwan website makes it very difficult). Even worse, if you <br />
+want to change the default language of the main Google homepage, the <br />
+list of languages appears in Chinese – which not everyone using the <br />
+website in Taiwan can read. Would you know to click on 英文 to get <br />
+English?</p>
+
+<p> Web designers need to put more thought into the fact that users might <br />
+be non-native speakers in the country in which they reside. Spanish <br />
+speakers in the US might want a Spanish interface, and English <br />
+speakers in China might want an English interface. They also need to <br />
+understand that people who speak one language might need to use and <br />
+access data in other scripts. Many Taiwanese websites have an “English <br />
+language” version which is devoid of most of the data on the Chinese <br />
+version, and is rarely updated. Even worse, important information, <br />
+like a business address, are presented entirely in Latin text. Even <br />
+non-native speakers who can’t read Chinese often need to have the <br />
+Chinese characters for a name or address since most locals can’t read <br />
+the romanized version of their language. The solution is to not <br />
+ghettoize the English version of the website, but to present the two <br />
+languages side-by-side.</p>
+
+<p> The internet is multilingual in that there are many different <br />
+languages spoken on the web, but very few websites have really thought <br />
+through the needs of multilingual users. Understanding the problem is <br />
+the first step.</p>
+
+
+  </div>
+
+</article>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+  <!-- Use if you want to show previous and next for all posts. -->
+
+
+
+  <div class="col-4 sm-width-full left mr-lg-4 mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2009/01/19/understanding-gaza/">
+      <span class="h5 bold text-accent">Previous</span>
+      <p class="bold h3 link-primary mb-1">Understanding Gaza</p>
+
+    </a>
+  </div>
+  
+  
+  <div class="col-4 sm-width-full left mt-3">
+    <a class="no-underline border-top-thin py-1 block" href="/archives/2009/01/25/gtd-in-the-cloud/">
+      <span class="h5 bold text-accent">Next</span>
+      <p class="bold h3 link-primary mb-1">GTD in the Cloud</p>
+
+    </a>
+  </div>
+
+
+</div>
+
+<div class="container mx-auto px-2 py-2 clearfix">
+
+</div>
+
+    </div>
+
+<script id="dsq-count-scr" src="//keywords.disqus.com/count.js" async></script>
+
+    <div class="border-top-thin clearfix mt-2 mt-lg-4">
+  <div class="container mx-auto px-2">
+	  <div class="footer">
+    <p class="col-8 sm-width-full left py-2 mb-0"><a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>  This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>. Copyright P. Kerim Friedman.</p>
+</div>
+</div>
+</div>
+
+
+  </body>
+
+</html>

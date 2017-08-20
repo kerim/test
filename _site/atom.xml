@@ -1,0 +1,510 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Keywords (test2)</title>
+ <link href="http://test.oxus.net/atom.xml" rel="self"/>
+ <link href="http://test.oxus.net/"/>
+ <updated>2017-08-20T14:42:30+00:00</updated>
+ <id>http://kerim.github.io</id>
+ <author>
+   <name>Kerim</name>
+   <email>kerim.mail@oxus.net</email>
+ </author>
+
+ 
+ <entry>
+   <title>Teaching Higher Ed Taiwan</title>
+   <link href="http://test.oxus.net/archives/2017/07/15/teaching-higher-ed-tw/"/>
+   <updated>2017-07-15T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2017/07/15/teaching-higher-ed-tw</id>
+   <content type="html">&lt;p&gt;I frequently get approached by academics who would like to find a university teaching job in Taiwan, so I thought I’d share my standard advice as a blog post.&lt;/p&gt;
+
+&lt;p&gt;First off, this is &lt;strong&gt;not&lt;/strong&gt; a blog post about finding English language teaching jobs in Taiwan. Most universities treat language teachers differently from other faculty and while I don’t agree with that policy, it means that the experience of English language teachers in Taiwanese universities is quite different from what I’ve experienced and so I’m not qualified to  talk about it. The best I can do is direct readers to discussions on &lt;a href=&quot;http://forumosa.com/taiwan/viewforum.php?f=35&quot;&gt;Forumosa&lt;/a&gt;, &lt;a href=&quot;https://taiwanease.com/en/forums/teaching-english-in-taiwan-f81.html&quot;&gt;Taiwanese&lt;/a&gt;, and &lt;a href=&quot;https://www.facebook.com/groups/702625523150392/&quot;&gt;Facebook&lt;/a&gt; dedicated to the subject.&lt;/p&gt;
+
+&lt;p&gt;Secondly, the most important thing to know about higher education in Taiwan right now is  this graph which shows the drop in university enrollments as a result of the &lt;strong&gt;&lt;a href=&quot;http://www.cw.com.tw/article/article.action?id=5081130&quot;&gt;shrinking student population&lt;/a&gt;&lt;/strong&gt;:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/lNRFaK+&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The end result is that, over the next decade, &lt;a href=&quot;http://monitor.icef.com/2015/04/taiwan-plans-to-close-up-to-a-third-of-its-universities-in-the-next-decade/&quot;&gt;Taiwan will be closing many of its universities&lt;/a&gt; and downsizing and merging departments at those that don’t close. This means that right now is a particularly bad time to be a foreigner looking for work in Taiwan. Doesn’t mean that it is impossible - people retire and many departments are still conducting job searches, but competition is fierce.&lt;/p&gt;
+
+&lt;p&gt;Third, if you are looking for jobs, &lt;a href=&quot;http://tjn.moe.edu.tw/jobshow.php&quot;&gt;this is the web page you want to bookmark&lt;/a&gt;. Unlike Hong Kong and Singapore where jobs are usually listed in the major international job listing sites, &lt;strong&gt;Taiwanese universities tend not to advertise outside of Taiwan&lt;/strong&gt;. Part of this is because most (but far from all) jobs require Chinese proficiency, but it is also a reflection of the general insularity of Taiwanese higher ed. Whereas many academic departments in Singapore and Hong Kong can have as many as fifty-percent foreign faculty (if not more), Taiwanese departments that aren’t focused on English teaching rarely have more than one foreigner. But all jobs are required to be listed on the Ministry of Education’s website, so if you do read Chinese it is easy to stay abreast of new job openings via that link.&lt;/p&gt;
+
+&lt;h2 id=&quot;frequently-asked-questions&quot;&gt;Frequently Asked Questions:&lt;!--more--&gt;&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;So what does it take to compete for a job in Taiwan?&lt;/strong&gt; Like everywhere else, publications are key. Taiwanese universities are eager to boost their international rankings and they see hiring faculty who publish in prestige journals as one of the key ways to do this. For academics in the social sciences, this effectively means publishing articles in journals that are &lt;a href=&quot;http://ip-science.thomsonreuters.com/cgi-bin/jrnlst/jlresults.cgi?PC=SS&quot;&gt;listed in the Social Science Citation Index&lt;/a&gt; (SSCI). Previously books did not count for much, but some universities in Taiwan are now promoting book publications as well.&lt;/p&gt;
+
+&lt;p&gt;Beyond that, however, it is also hard to get a job here without some personal connections. This is true everywhere, even if nobody wants to admit it, but if you aren’t based in Taiwan you might have a difficult time getting taken seriously as a job candidate here.  Nobody wants to hire someone who will leave as soon as they get a better job in the US or Europe. For this reason I frequently advise people who want a job here to first apply for a postdoc (even if it is unpaid) and spend some time getting to know people in your field. This will also help you better understand the departments you are applying to, allowing you to prepare a better application.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Is it necessary to speak Chinese to teach in Taiwan?&lt;/strong&gt; If you are able to teach at one of the &lt;a href=&quot;http://www.4icu.org/tw/&quot;&gt;top universities in Taiwan&lt;/a&gt;, teaching in English is not a problem. And many other universities are trying to promote English language courses. Having said that, even if you can teach in English, most universities are Chinese work environments. You can expect dozens of (often important) Chinese emails each day, and faculty meetings are held in Chinese. (See what I said above about few departments having more than one foreign faculty member.) Even if courses are offered in English, most students outside of the top universities lack sufficient English ability to follow the material without some assistance in Chinese. Most of the people I know teaching in the social sciences in Taiwan are fluent Chinese speakers with a high level of Chinese literacy as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How well does it pay?&lt;/strong&gt; The salaries at public universities are pretty standardized (unless you are a famous scholar, in which case they might be able to pay you more than the standard rate for Taiwanese). &lt;a href=&quot;http://www.personnel.nkfust.edu.tw/ezfiles/7/1007/img/1851/169571396.pdf&quot;&gt;This PDF&lt;/a&gt; lists the salaries. As you can see, these are rather low by international standards. In terms of US dollars, these are actually some of the lowest in the developed world. But Taiwan is also a rather affordable place to live, with good health insurance, so you can do pretty well on these incomes if you live here and don’t travel a lot. Salaries at private universities are not as closely regulated as at national ones so there is much more variation.&lt;/p&gt;
+
+&lt;p&gt;A bigger concern is retirement. It is hard to save money on these salaries, and the current pensions given to foreigners are not as good as those for Taiwanese.  Basically you get a lump sum payment of what you put into the system, rather than a monthly payment that is a percentage of your salary at retirement. There are a number of &lt;a href=&quot;http://www.taipeitimes.com/News/taiwan/archives/2016/11/11/2003659032&quot;&gt;reforms being discussed&lt;/a&gt; right now that might improve the situation, but it is hard to know whether these will actually become law. Note that, like salaries, the pension situation is very different at private universities, with many getting much lower pensions than what is offered to public university professors.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;How is the work environment?&lt;/strong&gt; My biggest complaint about teaching here are the long semesters and large number of teaching hours. I currently have eighteen week semesters with nine lecture hours per week (three courses, each three hours a week).  Added up this can be as much as five times what is required of some academics in Europe and North America. While the requirements for tenure and promotion are a little less stringent than in those places, they still require a significant commitment to research and publication on top of that heavy teaching load. And if you aren’t used to teaching in Chinese, expect this burden to be even harder your first few years. There are some efforts to switch to fifteen week semesters, and some of the better universities only expect professors to teach two courses a semester. As with salaries and pensions, the situation is much more variable at private universities.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;What is your story?&lt;/strong&gt; My journey to Taiwan, and my teaching situation here is rather unique. &lt;a href=&quot;https://savageminds.org/2010/01/09/teaching-anthropology-in-the-field/&quot;&gt;I wrote something about it back in 2010&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Ceci n&#39;est pas Andy Warhol</title>
+   <link href="http://test.oxus.net/archives/2017/03/13/ceci-nest-pas-andy-warhol/"/>
+   <updated>2017-03-13T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2017/03/13/ceci-nest-pas-andy-warhol</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;/media/2017-03-13_garbagecan.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;True story: when I was a kid I once got yelled at by Andy Warhol who thought I was surreptitiously taking his photo. He was really furious and his friends (one of whom I’m pretty sure was Basquiat) had to calm him down. The thing is, I really wasn’t taking his picture! I didn’t even know who he was. I only figured out it was Warhol when I later saw his photo on the cover of one of my mom’s art magazines… I was actually taking a picture of a garbage can. I told him that, but he didn’t believe me… Well, I recently found that picture while cleaning out boxes from my parent’s basement. I guess I should frame it and title it “Andy Warhol.” Maybe I could sell it for lots of money?&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Nazi Cosplay</title>
+   <link href="http://test.oxus.net/archives/2016/12/26/nazi-cosplay/"/>
+   <updated>2016-12-26T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2016/12/26/nazi-cosplay</id>
+   <content type="html">&lt;p&gt;So this happened:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/I5iJ+&quot; alt=&quot;nazi cosplay&quot; title=&quot;nazi cosplay&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;An international incident was caused when students at Kuang Fu High School, a private high school in Hsinchu, Taiwan, dressed up as Nazis as part of celebrations to commemorate the school’s anniversary. The principle has already apologized and &lt;a href=&quot;http://www.taipeitimes.com/News/front/archives/2016/12/26/2003661929&quot;&gt;announced&lt;/a&gt; that he will be stepping down early (he was already scheduled to depart in February). Moreover,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The school will hold a series of educational activities, including showing films such as Schindler’s List and Life is Beautiful, Cheng said, adding that officials from the Israel Economic and Culture Office would be invited to speak with the students.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;So what can we say about this? A lot, it turns out.&lt;!-- More --&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;1-first-of-all-we-should-point-out-that-this-kind-of-thing-happens-a-lot&quot;&gt;1. First of all, we should point out that this kind of thing happens a lot.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/SPhg+&quot; alt=&quot;kid with hitler t-shirt&quot; title=&quot;kid with hitler t-shirt&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Michael Turton has been documenting Taiwan’s strange obsession with &lt;a href=&quot;http://michaelturton.blogspot.com/2006/12/nazi-kitsch.html&quot;&gt;Nazi kitsch&lt;/a&gt; for a long time now. For the most part this kind of thing is not the result of genuine neo-Nazi beliefs on the part of Taiwanese, but the same kind of attitude that has Westerners ironically wearing T-shirts with the picture of a man responsible for tens of millions of deaths:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/nxWM+&quot; alt=&quot;Mao t-shirt&quot; title=&quot;Mao t-shirt&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The difference being that Nazi imagery is still widely used throughout much of the world as a symbol of ethnic hatred.&lt;/p&gt;
+
+&lt;h2 id=&quot;2-nor-is-it-the-only-tasteless-thing-the-school-did-that-day&quot;&gt;2. Nor is it the only tasteless thing the school did that day.&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/FdYH+&quot; alt=&quot;Wushe cosplay&quot; title=&quot;Wushe cosplay&quot; width=&quot;400px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;On &lt;a href=&quot;http://michaelturton.blogspot.com/2016/12/cosplay-nazis-yeah-sure-its-not-only.html&quot;&gt;the same day&lt;/a&gt; they did a re-enactment of the 1930 &lt;a href=&quot;https://en.wikipedia.org/wiki/Musha_incident&quot;&gt;Wushe Incident&lt;/a&gt;, in which indigenous Taiwanese attacked and killed hundreds of Japanese, bringing down the wrath of the Japanese colonial government and much more bloodshed. But that isn’t all, during the reenactment they &lt;a href=&quot;http://m.ltn.com.tw/news/life/breakingnews/1928583&quot;&gt;shouted&lt;/a&gt; “Fight the Japanese Devils, Restore our Chinese people!” 「打倒日本鬼子，光復我中華民族」This is problematic because of the way it re-colonizes indigenous people by making them.  As Michael &lt;a href=&quot;http://michaelturton.blogspot.com/2016/12/cosplay-nazis-yeah-sure-its-not-only.html&quot;&gt;pointed out&lt;/a&gt; on his blog, “the name of the school, is the KMT code term for the ‘restoration’ [Kuang Fu 光復] of Taiwan.” (And &lt;a href=&quot;https://www.youtube.com/watch?v=ffZJJhOgxdA&amp;amp;feature=youtu.be&quot;&gt;in 2013&lt;/a&gt; they also did a rather inappropriate dance dressed as members of the Tao tribe of Orchid island. )&lt;/p&gt;
+
+&lt;p&gt;Indigenous activists have long been fighting for a true “restoration” of Taiwan, one that sheds not just the legacy of Japanese colonialism, but that of the KMT as well. In &lt;a href=&quot;http://english.pct.org.tw/enNews_tcn.aspx?strBlockID=B00177&amp;amp;strContentid=C2014111900007&amp;amp;strCTID=&amp;amp;strDesc=Y&amp;amp;strPub=&amp;amp;strASP=enNews_tcn&quot;&gt;one incident&lt;/a&gt; , an activist spray painted graffiti on a police station in a town also named “Kuang Fu,” asking “Who’s retrocession?” and demanding that the town be restored to its original indigenous name.&lt;/p&gt;
+
+&lt;h2 id=&quot;3-forget-the-holocaust-taiwanese-dont-even-know-their-own-history&quot;&gt;3. Forget the Holocaust, Taiwanese don’t even know their own history&lt;/h2&gt;
+
+&lt;p&gt;In 2015 students &lt;a href=&quot;http://thediplomat.com/2015/07/taiwanese-students-occupy-education-ministry-over-textbook-controversy/&quot;&gt;occupied&lt;/a&gt; the Ministry of Education over controversial changes to the history textbooks. Activists were upset that changes to newly proposed textbooks “misrepresent history, gloss over the KMT’s role in the 228 Massacre and the White Terror, and impose a China-centric curriculum.” After the Nazi cosplay incident, someone in Taiwan’s semiconductor incident &lt;a href=&quot;http://talk.ltn.com.tw/article/paper/1065306&quot;&gt;wrote a letter&lt;/a&gt; to the &lt;em&gt;Liberty Times&lt;/em&gt; newspaper explicitly raising the issue of Taiwan’s continued inability to face its own history, pointing out how many monuments Taiwan still has to its dead dictator.&lt;/p&gt;
+
+&lt;p&gt;Personally, I still feel about these issues of history education the way I did then. As I wrote in a Facebook post at the time:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;True, a textbook shouldn’t just be propaganda for the ideology of the ruling party, but I think it’s even more important that students be taught how to evaluate historical claims for themselves and not just be asked to memorize a textbook for their exams. No matter what the textbook says, that’s not learning history. And if they did learn that skill (how to evaluate historical claims), then it wouldn’t matter so much what the textbook says. Taiwan doesn’t just need a new textbook, it needs a new curriculum.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;(After I wrote that, the same point was &lt;a href=&quot;https://www.thenewslens.com/article/21739&quot;&gt;made more eloquently&lt;/a&gt; by a history professor writing in Chinese.)&lt;/p&gt;
+
+&lt;h2 id=&quot;4-even-as-taiwanese-should-learn-their-history-we-should-be-wary-of-the-sacralization-of-the-holocaust&quot;&gt;4. Even as Taiwanese should learn their history, we should be wary of the sacralization of the Holocaust&lt;/h2&gt;
+
+&lt;p&gt;Corey Robin &lt;a href=&quot;http://coreyrobin.com/2015/02/13/i-the-holocaust-am-your-god/&quot;&gt;wrote&lt;/a&gt; about this in the context of a critique of Elie Wiesel, saying that “the Holocaust and Israel have replaced God and halakha as the touchstones of Jewish experience and identity.” As he says in response to something Wiesel wrote:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;The Holocaust not as an event in secular history but as a leap into transcendence; it cannot be explained, it can only be circled, like a holy fire. Auschwitz is our Sinai, the ovens our burning bush. Like the Jews receiving God’s commandments, the Jews of the camps experienced a sacred mystery, received a secret message, which we can only approach at a distance, with awe and trembling. I, the Holocaust, am your God. Thou shalt have no other gods before me.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Back in April I &lt;a href=&quot;http://savageminds.org/2016/04/15/why-im-voting-for-the-boycott-part-1-david-vs-goliath/&quot;&gt;wrote&lt;/a&gt; about the importance of the Holocaust in developing Jewish identity:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During my weekly Hebrew school classes, as well as related weekend activities and camps, we almost never discussed Jewish religion, ethics, or philosophy. Instead, we were taught to think of ourselves as victims of historical persecution stretching back to the dawn of time. We were taught the importance of maintaining our ethnic identity in the face of this persecution.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I’d also like to point out that (like me) Corey Robin also hates &lt;em&gt;Schindler’s List&lt;/em&gt; which is what the High School students in Hsinchu are going to have to watch in penance for their crimes….&lt;/p&gt;
+
+&lt;h2 id=&quot;5-a-bad-experience&quot;&gt;5. A bad experience&lt;/h2&gt;
+
+&lt;p&gt;Having said all that, I’m actually not entirely convinced that Taiwan is free of antisemitism and that all Nazi memorabilia is just “kitsch.”&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://d.pr/i/qKtL+&quot; alt=&quot;racist magazine cover&quot; title=&quot;racist magazine cover&quot; width=&quot;300px&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Above is the cover of a Taiwanese magazine promising to tell its readers how to be rich “like a Jew.”&lt;/p&gt;
+
+&lt;p&gt;It is in the context that I want to share one of the few upsetting personal experiences I have had as a teacher in Taiwan. All faculty are assigned a number of “advisees” we take out to dinner a few times a year and get to know personally. One day one of these advisees, over dinner, showed me a prized possession: a very authentic looking Nazi ring. I remember looking at it in curiosity, then suddenly understanding what I was looking and jumping up from the table in shock. I couldn’t look at or talk to the student and had to get colleagues to intervene and help deal with the situation. I just couldn’t understand how anyone would be proud to own something like that, and then show it to me. In the end the student was asked to do something very similar to what was asked of these students: watch some movies, read some books, and write me a letter. Which he did. A very nice letter actually - although to be honest I still felt uncomfortable around this student until the day he graduated.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Politics as a Vocation</title>
+   <link href="http://test.oxus.net/archives/2016/09/27/politics-vocation/"/>
+   <updated>2016-09-27T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2016/09/27/politics-vocation</id>
+   <content type="html">&lt;p&gt;Who would Weber vote for in this election? Here’s a hint:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;As far as political… activities are concerned… Western experience has pre­sented two fundamental types of protagonist. On the one hand, there are individuals for whom those actives constitute an aspect of broader social position, generally a privileged one. Typically, such individuals do not identify closely with those activities, are not expressly trained and qualified for them, and do not make a particularly strong commitment to them.&lt;/p&gt;
+
+  &lt;p&gt;On the other hand, we encounter individuals for whom political and administrative concerns lie at the centre of their life, and constitute the most significant way of positioning themselves in society, or of orienting and in a sense justifying their very existence. Essentially, the process of state-building, as &lt;em&gt;Politics as a Vocation&lt;/em&gt; construes it, involves the progressive devaluing of the first type - let us call it ‘notable’ -  to the advantage of the second, to which we might attach the label ‘professional’…&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;From &lt;a href=&quot;https://books.google.com.tw/books/about/Weber.html?id=ymCJngEACAAJ&amp;amp;redir\_esc=y&quot;&gt;Gianfranco Poggi (p117)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Getting from Pudong to Hongqiao</title>
+   <link href="http://test.oxus.net/archives/2016/07/12/shanghai-maglev/"/>
+   <updated>2016-07-12T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2016/07/12/shanghai-maglev</id>
+   <content type="html">&lt;p&gt;So let’s say you bought the cheapest plane ticket you could get, even though it involved a five hour layover in Shanghai, but it was only when you were heading out to the airport that you noticed the layover also involved &lt;em&gt;switching airports&lt;/em&gt; in Shanghai! Fear not, this post is intended to help you make your connecting flight. When it happened to me I discovered that most of the relevant online information was out of date or confusing, so hopefully this will help others navigate their journey!&lt;/p&gt;
+
+&lt;p&gt;This post covers the trip from Shanghai Pudong International Airport 上海浦东国际机场 (上海浦東國際機場) to Shanghai Hongqiao International Airport 上海虹桥国际机场 (上海虹橋國際機場). I assume that it should help those going in the opposite direction as well, but I haven’t personally made that trip. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;arrival&quot;&gt;Arrival&lt;/h2&gt;
+
+&lt;p&gt;When you arrive at Pudong the first thing you need to do is get your luggage and go through immigration. If you are arriving in China from a different city than your destination you may be eligible for a 144-hour visa-exemption. Check &lt;a href=&quot;https://www.travelchinaguide.com/embassy/visa/free-transit-144hour.htm&quot;&gt;this site&lt;/a&gt; for more information. If you are lucky, someone is working at the separate counter set up for this and you can skip the big line. (It was closed when we arrived late at night going the other direction, but was open on the returning flight which arrived during the day.) Make sure to have a print out with your connecting flight information.&lt;/p&gt;
+
+&lt;h2 id=&quot;maglev&quot;&gt;Maglev&lt;/h2&gt;
+
+&lt;p&gt;After collecting your luggage (if any) and exiting customs, take the escalator to the right and head up to the second floor. There you will see a passage to terminal 2:
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end of the passage, turn left. If you see the subway entrance and a food court you’ve gone too far!
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the end you will see a ticket booth just to the right of the Maglev entrance. The Maglev is called 上海磁浮示范运营线 (上海磁浮示範運營線) but usually abbreviated as 磁浮列車。 At the ticket booth you want to buy a combined Maglev &amp;amp; Metro Pass 磁浮地铁一票通 (磁浮地鐵一票通). It is ¥55 for a one-way ticket. 
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev3.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;You will have to have your luggage X-rayed on the way through to the Maglev train, but it is very quick and you don’t need to take out your laptop, etc. Once inside you can’t go down to the platform until the train arrives.
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev4.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Maglev journey is about 8 min.&lt;/p&gt;
+
+&lt;h2 id=&quot;subway-line-2&quot;&gt;Subway Line 2&lt;/h2&gt;
+
+&lt;p&gt;There is only one stop: Longyang Road Station 龙阳路站 (龍陽路站). Once you get out, just take the escalator down towards subway 上海地铁 (上海地鐵) line #2. 
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev5.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;At the bottom of the escalator you have to cross the street, and have your luggage X-rayed again. 
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev6.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;I couldn’t find a down-escalator, so I ended up having to carry my luggage down one flight of stairs. Not sure if there is an alternative? At the bottom take the side that is NOT going back to Pudong Airport!
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev7.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Line 2 journey is about 50 min. Here’s &lt;a href=&quot;https://www.travelchinaguide.com/cityguides/shanghai/transportation/subway-stations.htm&quot;&gt;a list&lt;/a&gt; of all the train stops.&lt;/p&gt;
+
+&lt;h2 id=&quot;subway-line-10&quot;&gt;Subway Line 10&lt;/h2&gt;
+
+&lt;p&gt;Once at the Hongqiao airport exit you will probably have to transfer to a train that takes you to Terminal 1 (the exit is at Terminal 2), but check with your ticket. For this train, follow the signs for subway line 10, and take it one stop. (You can still use the same metro pass for this.)
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev8.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;After getting out at Terminal one, there is a five minute walk under a covered walkway.
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev9.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Once in Terminal 1, the escalator to the check-in counters is straight ahead and to the left.
+&lt;img src=&quot;http://test.oxus.net/media/2016-07-12/shanghaimaglev10.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Getting from Terminal 2 to Terminal 1 takes about 15 min.&lt;/p&gt;
+
+&lt;p&gt;Good luck! If anything is different from what is reported here, please leave a comment…&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Explaining Israel to Taiwanese</title>
+   <link href="http://test.oxus.net/archives/2016/06/13/explaining-israel/"/>
+   <updated>2016-06-13T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2016/06/13/explaining-israel</id>
+   <content type="html">&lt;p&gt;Last week the American Anthropology Association (AAA) &lt;a href=&quot;https://www.magnetmail.net/actions/email_web_version.cfm?recipient_id=2074881466&amp;amp;message_id=13021179&amp;amp;user_id=AAA_&amp;amp;group_id=1420948&amp;amp;jobid=34027418&quot;&gt;announced&lt;/a&gt; the results of a historic vote over a resolution advocating the academic boycott of Israeli institutions. With 51% of the membership voting, the resolution failed by just 39 votes: 2,423-2,384, essentially a tie. Having written a fair amount advocating the boycott for Savage Minds (see &lt;a href=&quot;http://savageminds.org/2016/04/15/why-im-voting-for-the-boycott-part-1-david-vs-goliath/&quot;&gt;here&lt;/a&gt;, &lt;a href=&quot;http://savageminds.org/2016/04/18/why-im-voting-for-the-boycott-part-2-squirrel/&quot;&gt;here&lt;/a&gt;, and &lt;a href=&quot;http://savageminds.org/2016/04/28/why-im-voting-for-the-boycott-part-3-its-in-the-resolution/&quot;&gt;here&lt;/a&gt;) as well as a &lt;a href=&quot;http://savageminds.org/2016/06/10/aaa-boycott-vote-postmortem/&quot;&gt;postmortem&lt;/a&gt; after the vote, I was asked to write &lt;a href=&quot;http://guavanthropology.tw/article/6529&quot;&gt;a piece&lt;/a&gt; for the Taiwanese anthropology blog, Guava Anthropology. Since that piece draws a lot from the Savage Minds posts linked above, I won’t post the entire thing here; however, I did add a section trying to explain Israel to a Taiwanese audience which I think is worth reposting in English, so I’ve cleaned it up a bit and posted it below.&lt;/p&gt;
+
+&lt;h2 id=&quot;jews-are-not-the-same-thing-as-israelis&quot;&gt;Jews are not the same thing as Israelis&lt;/h2&gt;
+
+&lt;p&gt;Having lived in Taiwan for over a decade, I frequently find myself explaining to Taiwanese friends, colleagues, and students that being Jewish doesn’t make me an Israeli. Because so many of these same Taiwanese adamantly proclaim that their ethnic Chinese heritage does not make them “Chinese” I’m surprised that they find it so hard to separate my ethnicity from my nationality (I’m American). But it isn’t really that surprising. After all, the conflation of ethnicity and nationalism in both Taiwan and Israel is the result of deliberate government policies. Since 1950 Israel’s &lt;a href=&quot;https://en.wikipedia.org/wiki/Law_of_Return&quot;&gt;Law of Return&lt;/a&gt; offers Jews world over the right to Israeli citizenship. Similarly, for much of its history, Taiwan’s KMT government claimed to represent all of China and “&lt;a href=&quot;http://www.jstor.org/stable/303809&quot;&gt;depicted itself as the guardian of ‘traditional Chinese culture’&lt;/a&gt;.”&lt;/p&gt;
+
+&lt;p&gt;Today, the younger generation of American Jews, just like the younger generation of Taiwanese, is beginning to question such ethno-nationalist identities.  Just as &lt;a href=&quot;http://newtalk.tw/news/view/2015-11-02/66264&quot;&gt;young people in Taiwan&lt;/a&gt; are more likely to support Taiwanese independence than their parents were, so too are young Jews in America &lt;a href=&quot;https://electronicintifada.net/blogs/ali-abunimah/world-jewry-feels-increasingly-endangered-embarrassed-israel-study-finds&quot;&gt;more likely to be critical&lt;/a&gt; of Israel than their parent’s generation ever was.&lt;/p&gt;
+
+&lt;p&gt;Although many Taiwanese do see similarities between Israel and Taiwan, these are often informed by self-serving myths promoted by the Israeli government. Thus Israel is seen, like Taiwan, as a country whose existence is threatened by hostile neighbors. Israel likes to portray itself as a kind of &lt;a href=&quot;http://savageminds.org/2016/04/15/why-im-voting-for-the-boycott-part-1-david-vs-goliath/&quot;&gt;David standing up to the Arab Goliath&lt;/a&gt;. As a Jewish kid growing up in America many of the holidays we celebrated (&lt;a href=&quot;https://en.wikipedia.org/wiki/Esther&quot;&gt;Purim&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Hanukkah&quot;&gt;Hanukkah&lt;/a&gt;, etc.) were built around such David and Goliath narratives, encouraging us to think of ourselves in the same way.&lt;/p&gt;
+
+&lt;p&gt;While Jews from my parent’s generation still see Israel as a David figure, those my age or younger are more likely to see Israel in the role of Goliath. Just as younger Taiwanese tend to see China as a colonial presence in Tibet, Xinjiang, and Hong Kong, most younger Jews similarly see the continued occupation of Palestinians territory in Gaza and the West Bank as unjust bullying by one of the best funded military powers in the region.&lt;/p&gt;
+
+&lt;p&gt;There is another way in which Israel is more like China than it is like Taiwan: both countries deflect criticism of government policies by deliberately misunderstanding them as an insults against their population. China has objected to so many criticisms on the grounds that they “&lt;a href=&quot;http://languagelog.ldc.upenn.edu/nll/?p=3425&quot;&gt;hurt the feelings of the Chinese people&lt;/a&gt;,” that the phrase has become a joke. Similarly, the Israelis frequently attempt to portray criticisms of their policies towards the Palestinians as anti-semitism.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Wawa No Cidal</title>
+   <link href="http://test.oxus.net/archives/2015/09/23/wawa-no-cidal/"/>
+   <updated>2015-09-23T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2015/09/23/wawa-no-cidal</id>
+   <content type="html">&lt;p&gt;Some preliminary thoughts on having just seen 太陽的孩子 Wawa No Cidal.&lt;/p&gt;
+
+&lt;style&gt; 
+.embed-container { position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden; max-width: 100%; } .embed-container iframe, .embed-container object, .embed-container embed { position: absolute; top: 0; left: 0; width: 83%; height: 100%; }&lt;/style&gt;
+
+&lt;div class=&quot;embed-container&quot;&gt;&lt;iframe src=&quot;https://www.youtube.com/embed//uVmybJR0qEI&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;&lt;/div&gt;
+&lt;p&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;br /&gt;
+First of all, this is an emotionally charged film that shows some of the real issues facing indigenous peoples in Taiwan without reducing them to stereotypes. It also deserves credit for making extensive use of the Amis language. For all these reasons everyone should watch and support this film. Having said all that, I really wish they had spent some more time on the screenplay. There were a lot of scenes that were insufficiently motivated and several dramatic tensions that were never sufficiently developed. (e.g. A sixth grader looks at a medical prescription and intuitively knows that this would be a better cancer treatment than what her grandfather is getting? An Amis police officer gets scolded by a grandmother and looks sick but doesn’t really do anything other than look sick? An old school friend changes enough to help the local community but not enough to really do anything to help the community? etc.) These things matter because I fear they will limit the films appeal to a mostly local audience.&lt;/p&gt;
+
+&lt;p&gt;More importantly, the main motivation for preserving a particular way of life presented in the film is because of the father character and vague references to ancestors. (The fact that the irrigation ditches shown in the film were probably built during the Japanese era and that the Amis traditionally grew millet, not rice are are convienetly ignored.) The film’s efforts to show the problems facing contemporary indigenous society mean that we don’t really get much of a sense as to what about indigenous society is worth preserving. The film mostly speaks to those who already value what the film’s protagonists are fighting for, but doesn’t have much to say to those for whom these values are not self-evident. The largely indigenous audience I saw the film with absolutely loved it, and maybe that is good enough, but I wonder…&lt;/p&gt;
+
+&lt;p&gt;The way of life presented in the film is one that is already dying. We mostly see empty houses and old people living on their own. It makes one feel that any efforts to preserve the culture are just a stop gap until the old people have gone. There is little to make us see what value the culture holds for the younger generation. The screenplay tries to make up for this with a forced scene in which the young girl shouts “I am Pangcah” to gain courage before a race, but I didn’t feel this scene worked as intended. It felt forced and seemed somewhat out of place with regard to the rest of the story. (The entire subplot about joining a track team was introduced into the film rather suddenly, like an afterthought.) I feel that 不一樣的月光 Finding Sayun did a better job grappling with what indigenous culture means for today’s indigenous youth and the tensions between urban and rural life. These themes are not ignored in the film, but they have to give way to the central theme of land development and remain under-developed.&lt;/p&gt;
+
+&lt;p&gt;Finally, I feel that the film would have benefited from a more complex portrayal of the NGOs and government officials working with indigenous groups. It is interesting to compare the film to Court (one of the best films of the year) because of its ability to portray exactly this kind of complexity without loosing any emotional depth. But maybe it is wrong to want this to be the kind of film that would do well on the international film circuit? To the extent that the film is simply intended to be a popular film aimed at a local audience I think it has succeeded admirably and I expect it to do well when it opens in theaters later this week.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Embassy to Rome</title>
+   <link href="http://test.oxus.net/archives/2015/08/12/embassy-to-rome/"/>
+   <updated>2015-08-12T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2015/08/12/embassy-to-rome</id>
+   <content type="html">&lt;p&gt;In 155 BCE Rome fined Athens 500 talents for the sacking of Oropus. This was a huge amount for Athens to pay, so they sent the leading philosophers of the Stoic (Diogenes), Academic (Carneades, representing what is also known as the Skeptic school), and Peripatetic (Critolaus) schools to Rome to negotiate the fine. (The Epicureans were notoriously uninterested in politics, so there was no point in asking them.) It seems they were successful in significantly reducing the fine down to about 100&lt;sup id=&quot;fnref:1&quot;&gt;&lt;a href=&quot;#fn:1&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;, but it was also an important event in the history of philosophy as it accelerated the adoption of Hellenistic philosophy by the Romans.&lt;/p&gt;
+
+&lt;p&gt;Of the three, the skeptic Carneades seems to have made the &lt;a href=&quot;https://en.wikipedia.org/wiki/Carneades&quot;&gt;biggest impression&lt;/a&gt; on the Romans:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;During his stay at Rome, he attracted great notice from his eloquent speeches on philosophical subjects, and it was here that, in the presence of Cato the Elder, he delivered his several orations on Justice. The first oration was in commendation of the virtue of Roman justice, and the next day the second was delivered, in which all the arguments he’d made on the first were refuted, as he persuasively attempted to prove that justice was inevitably problematic, and not a given when it came to virtue, but merely a compact device deemed necessary for the maintenance of a well-ordered society. Recognizing the potential danger of the argument, Cato was shocked at this and he moved the Roman Senate to send the philosopher home to his school, and prevent the Roman youth from the threat of re-examining all Roman doctrines. Carneades lived twenty-seven years after this at Athens.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;I have tremendous respect for Yanis Varoufakis, but his appeals to the Troika were nowhere nearly as effective or influential as those of Carneades before the Roman senate.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:1&quot;&gt;
+      &lt;p&gt;I learned about this event listening to an episode of the podcast &lt;a href=&quot;http://www.historyofphilosophy.net/stoics-sedley&quot;&gt;History of Philosophy without any gaps&lt;/a&gt; in which David Sedley was interviewed. That is where I got the “100” figure for the reduced fine. I haven’t been able to find a source for this online. (Not that I spent much time looking…)&amp;nbsp;&lt;a href=&quot;#fnref:1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A lot of school lunches</title>
+   <link href="http://test.oxus.net/archives/2015/04/19/a-lot-of-school-lunches/"/>
+   <updated>2015-04-19T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2015/04/19/a-lot-of-school-lunches</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;An audit of the U.S. military’s spending in Afghanistan has revealed that a whopping $45 billion is unaccounted for.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;– &lt;a href=&quot;http://rare.us/story/so-the-pentagon-misplaced-45-billion-in-afghanistan-funds/&quot;&gt;Full Story&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;From &lt;a href=&quot;http://test.oxus.net/archives/2003/12/05/accountability/&quot;&gt;a post&lt;/a&gt; I wrote back in 2003:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;A study by the Defense Department’s inspector general found that the Pentagon couldn’t properly account for &lt;strong&gt;more than a trillion dollars&lt;/strong&gt; in monies spent.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;That’s a lot of school lunches, affordable housing, environmental subsidies, NEH grants, etc…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Philosophy Podcasts</title>
+   <link href="http://test.oxus.net/archives/2015/04/04/philosophy-podcasts/"/>
+   <updated>2015-04-04T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2015/04/04/philosophy-podcasts</id>
+   <content type="html">&lt;p&gt;One of the joys of being on sabbatical has been time to read and study philosophy. Equipped with my Bose &lt;a href=&quot;http://www.bose.com/controller?url=/shop_online/headphones/noise_cancelling_headphones/quietcomfort_20/index.jsp&quot;&gt;QuietComfort 20i&lt;/a&gt; noise cancelling headphones I can clearly hear podcasts as I walk Juno around the streets and riverside parks of Taipei. Here are some quick notes on what I’ve heard so far. &lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;heidegger&quot;&gt;Heidegger&lt;/h2&gt;
+
+&lt;p&gt;I listened to both semesters of Hubert Dreyfus’ course on Heidegger. You can get the first semester &lt;a href=&quot;https://archive.org/details/Philosophy_185_Fall_2007_UC_Berkeley&quot;&gt;here&lt;/a&gt; and the course notes &lt;a href=&quot;http://socrates.berkeley.edu/~hdreyfus/185_f07/html/Schedule.html&quot;&gt;here&lt;/a&gt;. The second semester (Division II) is only &lt;a href=&quot;https://itunes.apple.com/us/itunes-u/philosophy-189-spring-2008/id461120614?mt=10&quot;&gt;available via iTunes&lt;/a&gt;, and the course materials are available &lt;a href=&quot;http://socrates.berkeley.edu/%7Ehdreyfus/189_s08/html/home.html&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I really enjoyed Dreyfus’ course, even with all the sound problems, long silences while students are speaking off microphone or while he is looking something up in the text, etc. His approach to Heidegger presents him as an analytic philosopher whose most important insights were in Division I of &lt;em&gt;Being and Time&lt;/em&gt;. For this reason the second semester is something of a mess. I recommend just listening to the first semester and looking elsewhere for insight into Division II.&lt;/p&gt;
+
+&lt;p&gt;One problem with the analytical focus is that it erases the philosopher’s &lt;a href=&quot;http://www.openculture.com/2015/03/martin-heideggers-black-notebooks-reveal-the-depth-of-anti-semitism.html&quot;&gt;connection to National Socialism&lt;/a&gt;. I found Simon Critchley’s &lt;a href=&quot;https://www.google.com/search?q=%22Simon+Critchley%22+Heidegger&quot;&gt;lectures&lt;/a&gt; at the European Graduate School to be a good corrective to this view. (His &lt;a href=&quot;http://www.theguardian.com/commentisfree/belief/2009/jun/05/heidegger-philosophy&quot;&gt;series in the Guardian&lt;/a&gt; is good too, but more introductory and less critical.)&lt;/p&gt;
+
+&lt;h2 id=&quot;hegel&quot;&gt;Hegel&lt;/h2&gt;
+
+&lt;p&gt;J.M. Bernstein’s &lt;a href=&quot;http://www.bernsteintapes.com/hegellist.html&quot;&gt;lectures on Hegel’s Phenomenology of Spirit&lt;/a&gt; are fantastic. Bernstein is a masterful lecturer and it is such a pleasure listening to these talks. Some sections I have listened to multiple times before going on – and not because they are confusing, quiet the opposite… There is so much richness, detail, and even humor in them that they inspire one to be a better lecturer. I’m only about 1/3rd of the way through right now – it is long course, but I find myslef taking Juno around the block a second time so I can hear a little more before heading home. I had never really been able to get into Hegel in any serious way before and I feel like this course has opened my eyes to the profound influence of Hegel on so many thinkers I admire while also showing how many of them misunderstood Hegel’s larger project.&lt;/p&gt;
+
+&lt;h2 id=&quot;whats-next&quot;&gt;What’s next?&lt;/h2&gt;
+
+&lt;p&gt;I’m tempted by Dreyfus’ &lt;a href=&quot;http://ist-socrates.berkeley.edu/~hdreyfus/188_s05/html/Lectures.html&quot;&gt;course on Merleau-Ponty&lt;/a&gt; and Bernstein’s &lt;a href=&quot;http://www.bernsteintapes.com/kantlist.html&quot;&gt;course on Kant&lt;/a&gt;, but there are also a large number of &lt;a href=&quot;http://www.openculture.com/philosophy_free_courses&quot;&gt;other great philosophy courses available online&lt;/a&gt;. Or maybe I’ll listen to Peter Adamson’s podcast, the &lt;a href=&quot;http://www.historyofphilosophy.net&quot;&gt;History of Philosophy Without Any Gaps&lt;/a&gt;? It would be great to find stuff that is more contemporary, or less Eurocentric (any good podcasts on Chinese or Indian philosophy?), but I’m mostly just happy there is so much great philosophy available online these days.&lt;/p&gt;
+
+&lt;h2 id=&quot;update-sept-23-2015&quot;&gt;Update (Sept. 23, 2015)&lt;/h2&gt;
+
+&lt;p&gt;I decided to listen to the History of Philosophy podcast which turns out to not be as Eurocentric as I had feared. In fact, Peter Adamson is a specialist on philosophy in the Islamic world and he spends a lot of time on this facinating topic. Also, he just launched a new podcast on the &lt;a href=&quot;http://historyofphilosophy.net/india&quot;&gt;History of Philosophy in India&lt;/a&gt;! (Still looking for something good on Chinese philosophy…)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>A new home for Keywords!</title>
+   <link href="http://test.oxus.net/archives/2015/04/03/a-new-home-for-keywords/"/>
+   <updated>2015-04-03T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2015/04/03/a-new-home-for-keywords</id>
+   <content type="html">&lt;p&gt;I’m sick of Wordpress. For many of the same reasons articluated &lt;a href=&quot;http://www.sitepoint.com/wordpress-vs-jekyll-might-want-make-switch/&quot;&gt;here&lt;/a&gt;. So I moved my &lt;a href=&quot;http://kerim.oxus.net/&quot;&gt;homepage&lt;/a&gt; and this site over got GitHub Pages using Jekyll. It turns out it wasn’t as easy as it looked. &lt;a href=&quot;https://gist.github.com/47ae4e51f5de967a43c5&quot;&gt;Here’s a list&lt;/a&gt; of all the problems I encountered and how I fixed them. But I’m glad I made the change. I’m planning on slowly migrating most (but not all) of my other sites as well. Since I’m still tweaking a few things, let me know if you see anything strange…&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Do What You Love</title>
+   <link href="http://test.oxus.net/archives/2014/11/15/do-what-you-love/"/>
+   <updated>2014-11-15T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2014/11/15/do-what-you-love</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;By keeping us focused on ourselves and our individual happiness, DWYL [Do What You Love] distracts us from the working conditions of others while validating our own choices and relieving us from obligations to all who labor, whether or not they love it. It is the secret handshake of the privileged and a worldview that disguises its elitism as noble self-betterment. According to this way of thinking, labor is not something one does for compensation, but an act of self-love. If profit doesn’t happen to follow, it is because the worker’s passion and determination were insufficient. Its real achievement is making workers believe their labor serves the self and not the marketplace.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Miya Tokumitsu, “&lt;a href=&quot;https://www.jacobinmag.com/2014/01/in-the-name-of-love/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'https://www.jacobinmag.com/2014/01/in-the-name-of-love/', 'In the name of love']);&quot;&gt;In the name of love&lt;/a&gt;“&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Authentic Benjamin</title>
+   <link href="http://test.oxus.net/archives/2014/09/09/the-authentic-benjamin/"/>
+   <updated>2014-09-09T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2014/09/09/the-authentic-benjamin</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;we late-moderns turn to Benjamin as a kind of figure of pure authenticity, almost a source out of time and out of history. The reason for this is simple, once it is put against the background of, for example, Agamben’s theory of history and modernity. How else, conceptually, could we imagine a source for the kind of emancipation necessary to fully transcend political modernity? In this context, then, Benjamin’s very person emerges as the embodiment of this possibility, and the source, only apparently the product of this modernity, of a pure theory of potentiality – the living exception to the exception.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Jennings, Ronald C. 2011. “&lt;a href=&quot;http://dx.doi.org/10.1177/1463499610395443&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://dx.doi.org/10.1177/1463499610395443', 'Sovereignty and Political Modernity: A Genealogy of Agamben’s Critique of Sovereignty']);&quot;&gt;Sovereignty and Political Modernity: A Genealogy of Agamben’s Critique of Sovereignty&lt;/a&gt;.” Anthropological Theory 11 (1): 23–61.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Sotomayor&#8217;s Dissent</title>
+   <link href="http://test.oxus.net/archives/2014/04/23/sotomayors-dissent/"/>
+   <updated>2014-04-23T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2014/04/23/sotomayors-dissent</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;While our Constitution does not guarantee minority groups victory in the political process, it does guarantee them meaningful and equal access to that process. It guarantees that the majority may not win by stacking the political process against minority groups permanently, forcing the minority alone to surmount unique obstacles in pursuit of its goals—here, educational diversity that cannot reasonably be accomplished through race-neutral measures. Today, by permitting a majority of the voters in Michigan to do what our Constitution forbids, the Court ends the debate over race-sensitive admissions policies in Michigan in a manner that contravenes constitutional protections long recognized in our precedents. […] &lt;!--more--&gt;&lt;/p&gt;
+
+  &lt;p&gt;The effect of §26 is that a white graduate of a public Michigan university who wishes to pass his historical privilege on to his children may freely lobby the board of that university in favor of an expanded legacy admissions policy, whereas a black Michigander who was denied the opportunity to attend that very university cannot lobby the board in favor of a policy that might give his children a chance that he never had and that they might never have absent that policy. […]&lt;/p&gt;
+
+  &lt;p&gt;We often think of equal protection as a guarantee that the government will apply the law in an equal fashion—that it will not intentionally discriminate against minority groups. But equal protection of the laws means more than that; it also secures the right of all citizens to participate meaningfully and equally in the process through which laws are created. […]&lt;/p&gt;
+
+  &lt;p&gt;Our cases recognize at least three features of the right to meaningful participation in the political process. Two of them, thankfully, are uncontroversial. First, every eligible citizen has a right to vote. See Shaw v. Reno… This, woefully, has not always been the case. But it is a right no one would take issue with today. Second, the majority may not make it more difficult for the minority to exercise the right to vote. This, too, is widely accepted. After all, the Court has invalidated grandfather clauses, good character requirements, poll taxes, and gerrymandering provisions. The third feature, the one the plurality dismantles today, is that a majority may not reconfigure the existing political process in a manner that creates a two-tiered system of political change, subjecting laws designed to protect or benefit discrete and insular minorities to a more burdensome political process than all other laws. This is the political-process doctrine of &lt;em&gt;Hunter&lt;/em&gt; and &lt;em&gt;Seattle&lt;/em&gt;. […]&lt;/p&gt;
+
+  &lt;p&gt;JUSTICE SCALIA first argues that the political-process doctrine “misreads the Equal Protection Clause to protect ‘particular group[s],’” running counter to a line of cases that treat “‘equal protection as a personal right.’” … Equal protection, he says, protects “ ‘per­ sons, not groups.’” … This criticism ignores the obvious: Discrimination against an individual occurs because of that individual’s membership in a particular group. Yes, equal protection is a personal right, but there can be no equal protection violation unless the injured individual is a member of a protected group or a class of individuals. It is membership in the group—here the racial minority—that gives rise to an equal protection violation. […]&lt;/p&gt;
+
+  &lt;p&gt;Race matters. Race matters in part because of the long history of racial minorities’ being denied access to the political process. […]&lt;/p&gt;
+
+  &lt;p&gt;And race matters for reasons that really are only skin deep, that cannot be discussed any other way, and that cannot be wished away. Race matters to a young man’s view of society when he spends his teenage years watching others tense up as he passes, no matter the neighborhood where he grew up. Race matters to a young woman’s sense of self when she states her hometown, and then is pressed, “No, where are you really from?”, regardless of how many generations her family has been in the country. Race matters to a young person addressed by a stranger in a foreign language, which he does not understand because only English was spoken at home. Race matters because of the slights, the snickers, the silent judgments that reinforce that most crippling of thoughts: “I do not belong here.” […]&lt;/p&gt;
+
+  &lt;p&gt;Moreover, the total number of college-aged underrepresented minorities in Michigan has increased even as the number of underrepresented minorities admitted to the University has decreased. For example, between 2006 and 2011, the proportion of black freshmen among those en- rolled at the University of Michigan declined from 7 per- cent to 5 percent, even though the proportion of black college-aged persons in Michigan increased from 16 to 19 percent. See Fessenden and Keller, &lt;a href=&quot;http://www.nytimes.com/interactive/2013/06/24/us/affirmative-action-bans.html&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.nytimes.com/interactive/2013/06/24/us/affirmative-action-bans.html', 'How Minorities Have Fared in States with Affirmative Action Bans']);&quot;&gt;How Minorities Have Fared in States with Affirmative Action Bans&lt;/a&gt; […] &amp;lt;/blockquote&amp;gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;img src=&quot;https://www.evernote.com/shard/s1/sh/64e94dbd-8d83-4b91-9124-ea2364932e1c/6250daf593474e059119757531c48de5/deep/0/How-Minorities-Have-Fared-in-States-With-Affirmative-Action-Bans---Interactive-Graphic---NYTimes.com.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+  &lt;blockquote&gt;
+    &lt;p&gt;A recent study also confirms that §26 has decreased minority degree attainment in Michigan. The University of Michigan’s graduating class of 2012, the first admitted after §26 took effect, is quite different from previous classes. The proportion of black students among those attain- ing bachelor’s degrees was 4.4 percent, the lowest since 1991; the proportion of black students among those attain- ing master’s degrees was 5.1 percent, the lowest since 1989; the proportion of black students among those attain- ing doctoral degrees was 3.9 percent, the lowest since 1993; and the proportion of black students among those attaining professional school degrees was 3.5 percent, the lowest since the mid-1970’s. See Kidder, &lt;a href=&quot;http://papers.ssrn.com/sol3/abstract=2318523&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://papers.ssrn.com/sol3/abstract=2318523', 'Restructuring Higher Education Opportunity?: African American Degree Attainment After Michigan’s Ban on Affirmative Action']);&quot;&gt;Restructuring Higher Education Opportunity?: African American Degree Attainment After Michigan’s Ban on Affirmative Action&lt;/a&gt; […]&lt;/p&gt;
+
+    &lt;p&gt;But I cannot ignore the unfortunate outcome of today’s decision: Short of amending the State Constitution, a Herculean task, racial minorities in Michigan are deprived of even an opportunity to convince Michigan’s public colleges and universities to consider race in their admissions plans when other attempts to achieve racial diversity have proved unworkable, and those institutions are unnecessarily hobbled in their pursuit of a diverse student body. […]&lt;/p&gt;
+
+    &lt;p&gt;The Constitution does not protect racial minorities from political defeat. But neither does it give the majority free rein to erect selective barriers against racial minorities. The political-process doctrine polices the channels of change to ensure that the majority, when it wins, does so without rigging the rules of the game to ensure its success. Today, the Court discards that doctrine without good reason. &amp;lt;/blockquote&amp;gt;&lt;/p&gt;
+
+    &lt;p&gt;&lt;a href=&quot;http://www.supremecourt.gov/opinions/13pdf/12-682_j4ek.pdf&quot; onclick=&quot;_gaq.push(['_trackEvent','download','http://www.supremecourt.gov/opinions/13pdf/12-682_j4ek.pdf']);&quot;&gt;JUSTICE SOTOMAYOR, with whom JUSTICE GINSBURG joins, dissenting (PDF)&lt;/a&gt;&lt;/p&gt;
+
+    &lt;div id=&quot;themify_builder_content-3510&quot; class=&quot;themify_builder_content themify_builder themify_builder_front&quot;&gt;
+
+&lt;/div&gt;
+  &lt;/blockquote&gt;
+
+  &lt;blockquote&gt;
+
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>On Sunflowers, Sunlight, and Sovereignty</title>
+   <link href="http://test.oxus.net/archives/2014/04/04/on-sunflowers-sunlight-and-sovereignty/"/>
+   <updated>2014-04-04T00:00:00+00:00</updated>
+   <id>http://test.oxus.net/archives/2014/04/04/on-sunflowers-sunlight-and-sovereignty</id>
+   <content type="html">&lt;p&gt;&lt;a href=&quot;http://www.3kirikou.org/article_detail.php?SerialNo=2521&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.3kirikou.org/article_detail.php?SerialNo=2521', '中文翻譯']);&quot;&gt;中文翻譯&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The occupation, by several hundred students, of Taiwan’s Legislative Yuan on March 18th, and the subsequent birth of what has been called the “&lt;a href=&quot;http://savageminds.org/2014/03/22/sunflower-student-movement/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://savageminds.org/2014/03/22/sunflower-student-movement/', 'Sunflower Student Movement']);&quot;&gt;Sunflower Student Movement&lt;/a&gt;” has inspired millions of people around the world. More importantly, for me, it has inspired a whole new generation of Taiwanese young people to take an active interest in national politics. After over two weeks, however, the time has come to be a little reflective about the movement’s hopes, goals and aspirations. As I see it, the movement highlights one of the central contradictions of progressive politics in Taiwan: the tension between sovereignty and democracy. Putting it this way may shock a few readers, since so many people who care about Taiwan tend to equate the two. Since there is so much ignorance and misinformation about the topic it is necessary for me to first make a few preliminary remarks about Taiwanese sovereignty. Those already familiar with the basic facts might wish to skip ahead.&lt;!--more--&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;is-taiwan-a-country&quot;&gt;Is Taiwan a Country?&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;If it looks like a duck, and quacks like a duck, we have at least to consider the possibility that we have a small aquatic bird of the family &lt;em&gt;Anatidae&lt;/em&gt; on our hands.&lt;sup id=&quot;fnref-3499-1&quot;&gt;&lt;a href=&quot;#fn-3499-1&quot; rel=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;For all intents and purposes Taiwan is a country and has been since the end of World War II. For the forty years before that it was a part of the Japanese empire and was moving towards greater autonomy within the empire when war broke out.&lt;/p&gt;
+
+&lt;p&gt;A better question is why Taiwan’s sovereignty is in question? This is where it gets tricky because, up until the end of martial law in Taiwan, both Taiwan’s ruling Nationalist Party (KMT) and China’s Communist Party (CCP) made the same claim: that Taiwan was part of China. But they made these claims for very different reasons. The CCP has long found Taiwan useful as a means for stoking Chinese nationalism, especially as part of a larger narrative about how China’s greatness has been continually thwarted by Western imperialism. For the KMT, however, the myth that they were the true government of all of China (a myth which got increasingly absurd with each passing year) served to legitimate a &lt;a href=&quot;http://thediplomat.com/2014/03/remembering-taiwans-white-terror/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://thediplomat.com/2014/03/remembering-taiwans-white-terror/', 'brutal dictatorship']);&quot;&gt;brutal dictatorship&lt;/a&gt; within Taiwan.&lt;/p&gt;
+
+&lt;p&gt;The myth that the KMT would “retake the mainland” justified the militarization of Taiwan, including the presence of military officers in the schools, but it also allowed them to maintain a second myth: that Taiwan was a democracy. US supporters of Taiwan, like John Foster Dulles, liked to refer to the KMT as representatives of “Free China.” In order for that to sound plausible the KMT, like the Japanese before them, had to allow local elections. They did allow some choice (between local &lt;a href=&quot;http://www.jstor.org/stable/3773619&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.jstor.org/stable/3773619', 'KMT factions']);&quot;&gt;KMT factions&lt;/a&gt;) at the local level, but at the national level the legislature was packed with aging representatives from each of China’s provinces. Many of them were elected in 1948 and &lt;a href=&quot;http://en.wikipedia.org/wiki/Republic_of_China_legislative_election,_1948&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Republic_of_China_legislative_election,_1948', 'didn&amp;#8217;t retire until 1991']);&quot;&gt;didn’t retire until 1991&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For these historical reasons, the fight for democracy in Taiwan has long been associated with the fight for national sovereignty, aka “independence.” Ending the myth that the KMT was the true representative government of all of China paved the way for multiparty democracy in Taiwan. This is important because, as much as the CCP tries to make the fight for Taiwanese independence about them, it isn’t really. It is about the fight for democracy within Taiwan where constitutional reform is an [unfinished business][1] and where the KMT has yet to divest itself of all the assets it seized from the Japanese, making it &lt;a href=&quot;http://www.asiasentinel.com/politics/taiwans-kuomintang-seeks-to-hide-its-assets/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.asiasentinel.com/politics/taiwans-kuomintang-seeks-to-hide-its-assets/', 'one of the wealthiest']);&quot;&gt;one of the wealthiest&lt;/a&gt; political parties in the world.&lt;/p&gt;
+
+&lt;p&gt;Which isn’t to say that the CCP isn’t important here at all. They are more threatened by pro-democracy independence supporters today than they were by laughable KMT ambitions to retake China by military force. Their territorial claims to Taiwan, &lt;a href=&quot;http://en.wikipedia.org/wiki/Political_status_of_Taiwan#Question_of_sovereignty_over_Taiwan&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Political_status_of_Taiwan#Question_of_sovereignty_over_Taiwan', 'while risible']);&quot;&gt;while risible&lt;/a&gt;, are part of a larger expansionist strategy. They also play an important part in their strategy of using nationalism to legitimate party rule in the post-communist era. Moreover, with the &lt;a href=&quot;http://in.reuters.com/article/2010/06/29/idINIndia-49737420100629&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://in.reuters.com/article/2010/06/29/idINIndia-49737420100629', 'increasing importance']);&quot;&gt;increasing importance&lt;/a&gt; of trade and investment across the Taiwan Strait to Taiwan’s economy, the CCP is able to use its economic power to promote its political goals. In this, the KMT and the CCP find themselves as allies, and so concerned Taiwanese citizens once again see sovereignty and democracy as inextricably intertwined, but for different reasons than they did in the eighties.&lt;/p&gt;
+
+&lt;h2 id=&quot;sunlight-and-black-boxes&quot;&gt;Sunlight and Black Boxes&lt;/h2&gt;
+
+&lt;p&gt;This gets us to the current crisis. . . well almost. The story actually starts a few years earlier. It is worth keeping in mind that many of the students now occupying the Taiwanese legislature were in diapers when Taiwan had its first democratic legislative election &lt;a href=&quot;http://en.wikipedia.org/wiki/History_of_the_Republic_of_China#Democratic_reforms&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/History_of_the_Republic_of_China#Democratic_reforms', 'in 1991']);&quot;&gt;in 1991&lt;/a&gt;. Taiwan is often referred to as a “young democracy,” but — like these students — it is growing up fast. As J. Michael Cole points out,&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;While the group has roots in the &lt;a href=&quot;http://en.wikipedia.org/wiki/Wild_Strawberries_Movement&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Wild_Strawberries_Movement', 'Wild Strawberries Movement']);&quot;&gt;Wild Strawberries Movement&lt;/a&gt;, it could be argued that it truly cut its teeth with the Alliance Against Media Monopoly that formed in mid-2012. Go back to that era, and would will see many familiar faces, the same faces that are now inside the legislature.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;The concern over media monopoly was sparked by the entrance into Taiwan’s news media of a major Chinese player: &lt;a href=&quot;http://www.taipeitimes.com/News/taiwan/archives/2012/09/01/2003541707&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2012/09/01/2003541707', 'the Want Want Group']);&quot;&gt;the Want Want Group&lt;/a&gt;. It is worth comparing this to similar concerns in America, where people have long been worried about the growing concentration of media ownership. &lt;a href=&quot;http://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.businessinsider.com/these-6-corporations-control-90-of-the-media-in-america-2012-6', 'Just six corporations own 90% of the media in America']);&quot;&gt;Just six corporations own 90% of the media in America&lt;/a&gt;. But while in America this is primarily framed in terms of the threat corporate rule poses to democracy, in Taiwan it is framed in terms of the threat China poses to national sovereignty.&lt;/p&gt;
+
+&lt;p&gt;Something similar has happened now. In America, New Zealand and elsewhere there has been the same kind of concern over black-box negotiations associated with the &lt;a href=&quot;http://www.thenewamerican.com/economy/item/17111-members-of-congress-call-for-tpp-transparency&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.thenewamerican.com/economy/item/17111-members-of-congress-call-for-tpp-transparency', 'Trans-Pacific Partnership']);&quot;&gt;Trans-Pacific Partnership&lt;/a&gt; (TPP) that we see with the &lt;a href=&quot;http://en.wikipedia.org/wiki/Cross-Strait_Service_Trade_Agreement&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Cross-Strait_Service_Trade_Agreement', 'Cross-Strait Services Trade Agreement']);&quot;&gt;Cross-Strait Services Trade Agreement&lt;/a&gt; (CSSTA) in Taiwan (which also wishes to join TPP). But in Taiwan it is impossible to escape from the fact that these negotiations are being conducted in China. As &lt;a href=&quot;http://savageminds.org/2014/03/22/sunflower-student-movement/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://savageminds.org/2014/03/22/sunflower-student-movement/', 'I wrote']);&quot;&gt;I wrote&lt;/a&gt; at the start of the occupation:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;One of the first things the students did after entering the assembly was to rifle the drawers of one of the politicians involved in negotiating the deal and to take pictures of the name cards he had collected on his trips to China.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What we see here is that not all “black boxes” are the same. It matters if the black box is in China or if it is in North America. While critics in &lt;a href=&quot;http://www.democracynow.org/2014/4/3/sen_bernie_sanders_supreme_court_undermines&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.democracynow.org/2014/4/3/sen_bernie_sanders_supreme_court_undermines', 'America']);&quot;&gt;America&lt;/a&gt;, &lt;a href=&quot;http://thediplomat.com/2014/01/aam-aadmi-party-a-turning-point-for-indian-democracy/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://thediplomat.com/2014/01/aam-aadmi-party-a-turning-point-for-indian-democracy/', 'India']);&quot;&gt;India&lt;/a&gt;, and just about everywhere else are equally concerned about the negative influence of corporate money on politics, in Taiwan it matters a lot that this money is coming from China and it shapes both the nature of the protest movement and the reaction to it. In order to see this more clearly, it is useful to compare the occupation of the Taiwanese legislature to the Occupy Wall Street movement.&lt;/p&gt;
+
+&lt;h2 id=&quot;comparing-occupations&quot;&gt;Comparing Occupations&lt;/h2&gt;
+
+&lt;p&gt;While it is clear that the Sunflower Student Movement has gotten inspiration from Occupy, there are also important differences. For one thing, Occupy was marked by a refusal to make concrete demands, while the Sunflower protests are very specific in terms of what they are asking for. Secondly, Occupy was a global movement, while the Sunflower movement has had a very local focus. Third, while both the Sunflowers and the Occupiers were very diverse with no single ideological agenda, the symbolism and language of Occupy was clearly targeting very different targets. Let’s take these one at a time.&lt;/p&gt;
+
+&lt;p&gt;First, the refusal to make demands. One of the more articulate members of the Occupy movement was &lt;a href=&quot;https://twitter.com/zunguzungu&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'https://twitter.com/zunguzungu', 'Aaron Bady']);&quot;&gt;Aaron Bady&lt;/a&gt;, so I asked him what lessons he thought Occupy might have for Taiwanese students. He directed me to &lt;a href=&quot;http://opinionator.blogs.nytimes.com/2011/10/13/occupy-wall-streets-political-disobedience/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://opinionator.blogs.nytimes.com/2011/10/13/occupy-wall-streets-political-disobedience/', 'this 2010 piece']);&quot;&gt;this 2010 piece&lt;/a&gt; by Bernard E. Harcourt:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Occupy Wall Street is best understood, I would suggest, as a new form of what could be called “political disobedience,” as opposed to civil disobedience, that fundamentally rejects the political and ideological landscape that we inherited from the Cold War.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Indeed, this kind of “political disobedience” was one of the most creative and refreshing things about Occupy, but when I see the Sunflower movement I see something that seems much more like classical civil disobedience, including much of the kind of Cold War-era rhetoric about the benefits of trade and importance of the political process that Occupiers rejected.&lt;/p&gt;
+
+&lt;p&gt;In response to a &lt;a href=&quot;http://www.reddit.com/r/IAmA/comments/21xsaz/we_are_students_that_have_taken_over_taiwans&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.reddit.com/r/IAmA/comments/21xsaz/we_are_students_that_have_taken_over_taiwans', 'reddit AMA']);&quot;&gt;reddit AMA&lt;/a&gt; with some of the student protest leaders, in which one of them said “we do not really think that it is about any ideology in particular,” a blogger by the name of Ah Mai recently wrote &lt;a href=&quot;http://kanruwu.tumblr.com/post/81601031560/open-letter-to-the-sunflower-movement&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://kanruwu.tumblr.com/post/81601031560/open-letter-to-the-sunflower-movement', 'the following response']);&quot;&gt;the following response&lt;/a&gt;:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;How can one reasonably say that the basis for the actions—the occupation of multiple government buildings by force—and the demand for a new general constitutional assembly be not of ‘any ideology in particular’?&lt;/p&gt;
+
+  &lt;p&gt;As I see it there are only two ways to answer this, and both are ideological: the first way privileges the integrity of the existing constitution over the content of the protests; the second privileges the content of the protests over the integrity of the existing constitution. The first insists to the second: the constitution just needs a little upgrading, go home! While the second desists in arguing: the constitution no longer serves us, stand up! The antagonism that lies between the two is irreconcilable, otherwise protests would merely be pointless debates. Any attempt to mix the two only confuses itself.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ah Mai goes on to say that “the movement will need to confront the relation between justice and democracy” but I’m not so sure. While Occupy was criticized for having no particular demands, it did take a very strong stand on justice. The Sunflower movement, on the other hand, has very specific demands, and they are about democracy, not justice. (In my talk to students at a teach-in last Tuesday I framed this as a distinction between democratic &lt;em&gt;procedures&lt;/em&gt; and democratic &lt;em&gt;outcomes&lt;/em&gt;, but I like Ah Mai’s framing better.) It is true that many of the people involved in the protest are doing so because of concerns about justice, but those concerns are unlikely to be satisfied by the achievement of the movement’s demands.&lt;/p&gt;
+
+&lt;p&gt;The second difference between the movements is the global nature of the anti-capitalist movement, of which Occupy was only the latest incarnation, compared with the very narrowly local focus of the Taiwanese student protesters. I have already explained the historical reasons why the fight for greater democracy in Taiwan is closely tied up with issues of national sovereignty, but I think it is worth thinking about the limitations of such politics. It is perhaps true that sovereignty can sometimes be an effective tool promote democracy, I won’t debate that point here, but we must also acknowledge that it is also a tool for exploitation. By defining democracy in terms of national sovereignty one necessarily excludes non-citizen residents from benefiting from said democracy. Unequal labor practices are increasingly accepted because exploited workers are non-citizens and therefore considered interlopers not worthy of the same protections as domestic workers. When the US economic downturn of 2008 negatively impacted the Taiwanese economy, local workers were kept on without salary while &lt;a href=&quot;http://www.taiwanact.net/spip.php?article95&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taiwanact.net/spip.php?article95', 'foreign workers were sent home']);&quot;&gt;foreign workers were sent home&lt;/a&gt;. Similarly, framing democracy in terms of sovereignty hides the ways in which Taiwanese benefit from the exportation of their environmental pollution and unsafe working conditions to China. Taiwanese laugh at pictures of Chinese smog, but not a small amount of that is &lt;a href=&quot;http://appleinsider.com/articles/13/08/05/apples-chinese-suppliers-again-under-fire-as-activists-level-water-pollution-allegations&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://appleinsider.com/articles/13/08/05/apples-chinese-suppliers-again-under-fire-as-activists-level-water-pollution-allegations', 'benefiting Taiwanese companies']);&quot;&gt;benefiting Taiwanese companies&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The villains of the Occupy movement were brilliantly cast as the “1 percent” (although some argue that it really should have been the 0.01 percent,&lt;sup id=&quot;fnref-3499-2&quot;&gt;&lt;a href=&quot;#fn-3499-2&quot; rel=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt; but that would have been less catchy). For the Sunflower Movement, it is Taiwanese President Ma Ying-jiu. The thing is, if Ma Ying-jiu steps down, someone else will take his place. It might even be someone from the opposition party (the DPP). After all, it was [under a DPP president][2] that Taiwan entered the WTO, paving the way for direct investment in China in 2002. The 0.01 percent, on the other hand, are here to stay. One &lt;a href=&quot;http://www.usatoday.com/story/news/world/2014/01/20/davos-2014-oxfam-85-richest-people-half-world/4655337/&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.usatoday.com/story/news/world/2014/01/20/davos-2014-oxfam-85-richest-people-half-world/4655337/', 'recent study']);&quot;&gt;recent study&lt;/a&gt; found that the wealth of the world’s richest 85 families was greater than that of the bottom fifty percent of the earth’s population. More recently, French economist Thomas Piketty &lt;a href=&quot;http://www.bookforum.com/inprint/021_01/12987&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.bookforum.com/inprint/021_01/12987', 'has shown']);&quot;&gt;has shown&lt;/a&gt; that that at least half the wealth of the world’s richest families is inherited, and that percentage seems to be increasing.&lt;/p&gt;
+
+&lt;h2 id=&quot;defining-sovereignty-down&quot;&gt;Defining Sovereignty Down&lt;/h2&gt;
+
+&lt;p&gt;The protester’s &lt;a href=&quot;http://bit.ly/occupylysupport&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://bit.ly/occupylysupport', 'demands']);&quot;&gt;demands&lt;/a&gt; are focused on reforming Taiwanese democracy in order to bolster domestic sovereignty. While I think these are important goals, I don’t see them as doing much to meet the concerns of the hundreds of thousands of Taiwanese citizens who have shown solidarity with the occupation. Nor do I foresee Taiwanese politics ever decoupling democracy from sovereignty, but I do see ways that sovereignty might be redefined in more progressive terms. For instance, Taiwanese Aborigines have long been fighting for &lt;a href=&quot;http://www.taipeitimes.com/News/taiwan/archives/2013/07/11/2003566859&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://www.taipeitimes.com/News/taiwan/archives/2013/07/11/2003566859', 'greater sovereignty']);&quot;&gt;greater sovereignty&lt;/a&gt; over their traditional territories. Taiwanese people have also been protesting &lt;a href=&quot;http://theparticipantobserverblog.blogspot.tw/2013/07/dapu-villagers-protest-three-years-later.html&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://theparticipantobserverblog.blogspot.tw/2013/07/dapu-villagers-protest-three-years-later.html', 'government takeover of their land']);&quot;&gt;government takeover of their land&lt;/a&gt; for development projects. By defining sovereignty down in this way it might be possible to decenter sovereignty so it isn’t simply associated with the idea of an independent Taiwanese state, but lies with ordinary citizens.&lt;/p&gt;
+
+&lt;li id=&quot;fn-3499-1&quot;&gt;
+  Adams, Douglas (1987). &lt;em&gt;Dirk Gently&amp;#8217;s Holistic Detective Agency.&lt;/em&gt; via &lt;a href=&quot;http://en.wikipedia.org/wiki/Duck_test&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://en.wikipedia.org/wiki/Duck_test', 'Duck test &amp;#8211; Wikipedia']);&quot;&gt;Duck test &amp;#8211; Wikipedia&lt;/a&gt;&amp;#160;&lt;a href=&quot;#fnref-3499-1&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt;
+&lt;/li&gt;
+&lt;li id=&quot;fn-3499-2&quot;&gt;
+  &amp;#8220;The great bulk of gains went to the top 1 percent. In turn, the bulk of the gains of the top 1 percent went to the top 0.1 percent; and the bulk of those gains went to the top 0.01 percent.&amp;#8221; &lt;a href=&quot;http://truth-out.org/opinion/item/19031-the-very-rich-are-getting-much-richer&quot; onclick=&quot;_gaq.push(['_trackEvent', 'outbound-article', 'http://truth-out.org/opinion/item/19031-the-very-rich-are-getting-much-richer', 'The (Very) Rich Are Getting (Much) Richer']);&quot;&gt;The (Very) Rich Are Getting (Much) Richer&lt;/a&gt;&amp;#160;&lt;a href=&quot;#fnref-3499-2&quot; rev=&quot;footnote&quot;&gt;&amp;#8617;&lt;/a&gt; &amp;lt;/fn&amp;gt;&amp;lt;/footnotes&amp;gt; &lt;div id=&quot;themify_builder_content-3499&quot; class=&quot;themify_builder_content themify_builder themify_builder_front&quot;&gt;
+  
+  
+ 
+
+ [1]: ttp://blogs.nottingham.ac.uk/chinapolicyinstitute/2013/10/15/will-the-constitution-become-nominal-too-reflections-on-taiwans-nominal-national-day/
+ [2]: http://chinaperspectives.revues.org/5301
+&lt;/div&gt;&lt;/li&gt;
+</content>
+ </entry>
+ 
+
+</feed>
