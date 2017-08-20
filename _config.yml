@@ -4,7 +4,7 @@ theme: jekyll-swiss
 
 # Additional settings
 excerpt_separator: <!--more-->
-comments: true
+comments: false
 
 # Disqus Comments
 disqus:
