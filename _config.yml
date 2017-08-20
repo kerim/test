@@ -37,7 +37,7 @@ plugins:
 
 # Setup
 
-title:            Keywords
+title:            Keywords (test)
 tagline:          'Better than yelling at the TV'
 description:      'The personal blog of <a href="http://kerim.oxus.net/">P. Kerim Friedman 傅可恩</a>. For his academic blogging please visit <a href="http://savageminds.org/">Savage Minds</a>.'
 url:              http://kerim.github.io
